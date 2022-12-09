@@ -14,4 +14,4 @@ using React UseState to Change UI Without using the native maths function
 
 ## Code
 - [Code-on-Replit](https://replit.com/@Biademade/simple-Ui-State-Calculator?v=1)
-- [Code-on-Github](https://github.com/Biadedigital/Form-Change-Ui-ReactJS)
+- [Code-on-Github](https://github.com/Biadedigital/simple-Ui-State-Calculator)
